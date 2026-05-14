@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Data\CrudFormBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Data\RecordEditorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\DepartmentsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\DiagnosesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\DoctorsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\HospitalsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\PatientsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\PositionsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OneToMany\DoctorPatientsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reports\ReportAdmissionsByPeriodForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reports\ReportDoctorsWorkloadForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reports\ReportPatientsByDepartmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
