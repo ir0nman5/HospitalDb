@@ -40,5 +40,11 @@
     <Compile Update="Reports\ReportPatientsByDepartmentForm.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Views\ActivePatientsViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\PatientFullInfoViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

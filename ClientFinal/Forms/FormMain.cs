@@ -1,4 +1,5 @@
 ﻿using HospitalDbClient.Forms;
+using HospitalDbClient.Views;
 using HospitalDbClient.OneToMany;
 using HospitalDbClient.Reports;
 
@@ -26,6 +27,10 @@ public sealed class FormMain : Form
         AddButton(panel, "Врачи", () => new DoctorsForm());
         AddButton(panel, "Диагнозы", () => new DiagnosesForm());
         AddButton(panel, "Пациенты", () => new PatientsForm());
+
+        AddButton(panel,"VIEW: Активные пациенты",() => new ActivePatientsViewForm());
+
+        AddButton(panel,"VIEW: Полная информация о пациентах",() => new PatientFullInfoViewForm());
 
         AddButton(panel, "Врач → Пациенты", () => new DoctorPatientsForm());
 

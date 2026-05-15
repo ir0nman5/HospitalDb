@@ -22,4 +22,4 @@ C:\ИжГТУ\Базы данных\ClientFinal\ClientFinal\obj\Debug\net8.0-win
 C:\ИжГТУ\Базы данных\ClientFinal\ClientFinal\obj\Debug\net8.0-windows\HospitalDbClient.Data.RecordEditorForm.resources
 C:\ИжГТУ\Базы данных\ClientFinal\ClientFinal\obj\Debug\net8.0-windows\HospitalDbClient.OneToMany.DoctorPatientsForm.resources
 C:\ИжГТУ\Базы данных\ClientFinal\ClientFinal\obj\Debug\net8.0-windows\HospitalDbClient.Data.CrudFormBase.resources
-C:\ИжГТУ\Базы данных\ClientFinal\ClientFinal\obj\Debug\net8.0-windows\HospitalDbClient.Forms.FormMain.resources
+C:\ИжГТУ\Базы данных\ClientFinal\ClientFinal\obj\Debug\net8.0-windows\HospitalDbClient.Reports.ReportAdmissionsByPeriodForm.resources
